@@ -1,0 +1,16 @@
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\TranscribeLab.exe.config
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\TranscribeLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\TranscribeLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.Core.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.S3.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.TranscribeService.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.Core.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.Core.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.S3.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.S3.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.TranscribeService.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\bin\Debug\AWSSDK.TranscribeService.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\obj\Debug\TranscribeLab.csproj.CopyComplete
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\obj\Debug\TranscribeLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\obj\Debug\TranscribeLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranscribeLab\obj\Debug\TranscribeLab.csprojAssemblyReference.cache

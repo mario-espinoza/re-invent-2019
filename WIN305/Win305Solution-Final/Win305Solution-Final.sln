@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekognitionLab", "RekognitionLab\RekognitionLab.csproj", "{7515AA30-AE63-4F75-9311-FBBA41BE131C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekognitionLab2", "RekognitionLab2\RekognitionLab2.csproj", "{5C936C18-BFD2-4AD6-86B1-9FEB2D75F303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslateLab", "TranslateLab\TranslateLab.csproj", "{C39F8152-64BE-4C84-802B-5CA581FBC927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyLab", "PollyLab\PollyLab.csproj", "{EF0532F0-8462-4679-8148-BA8B5FF98601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprehendLab", "ComprehendLab\ComprehendLab.csproj", "{43847116-D0BE-4B78-B2E1-187CD435AF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranscribeLab", "TranscribeLab\TranscribeLab.csproj", "{231399A8-21E8-4C31-A68F-EE37DAE1ABB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7515AA30-AE63-4F75-9311-FBBA41BE131C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7515AA30-AE63-4F75-9311-FBBA41BE131C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7515AA30-AE63-4F75-9311-FBBA41BE131C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7515AA30-AE63-4F75-9311-FBBA41BE131C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C936C18-BFD2-4AD6-86B1-9FEB2D75F303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C936C18-BFD2-4AD6-86B1-9FEB2D75F303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C936C18-BFD2-4AD6-86B1-9FEB2D75F303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C936C18-BFD2-4AD6-86B1-9FEB2D75F303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39F8152-64BE-4C84-802B-5CA581FBC927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39F8152-64BE-4C84-802B-5CA581FBC927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39F8152-64BE-4C84-802B-5CA581FBC927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39F8152-64BE-4C84-802B-5CA581FBC927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0532F0-8462-4679-8148-BA8B5FF98601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0532F0-8462-4679-8148-BA8B5FF98601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0532F0-8462-4679-8148-BA8B5FF98601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0532F0-8462-4679-8148-BA8B5FF98601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43847116-D0BE-4B78-B2E1-187CD435AF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43847116-D0BE-4B78-B2E1-187CD435AF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43847116-D0BE-4B78-B2E1-187CD435AF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43847116-D0BE-4B78-B2E1-187CD435AF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231399A8-21E8-4C31-A68F-EE37DAE1ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231399A8-21E8-4C31-A68F-EE37DAE1ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231399A8-21E8-4C31-A68F-EE37DAE1ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231399A8-21E8-4C31-A68F-EE37DAE1ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6CF3C4-F5E4-45CD-8D95-EA3D1786A0D0}
+	EndGlobalSection
+EndGlobal

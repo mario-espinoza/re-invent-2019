@@ -1,0 +1,12 @@
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\RekognitionLab2.exe.config
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\RekognitionLab2.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\RekognitionLab2.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\AWSSDK.Core.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\AWSSDK.Rekognition.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\AWSSDK.Core.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\AWSSDK.Core.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\AWSSDK.Rekognition.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\bin\Debug\AWSSDK.Rekognition.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\obj\Debug\RekognitionLab2.csproj.CopyComplete
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\obj\Debug\RekognitionLab2.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\RekognitionLab2\obj\Debug\RekognitionLab2.pdb

@@ -1,0 +1,13 @@
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\TranslateLab.exe.config
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\TranslateLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\TranslateLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\AWSSDK.Core.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\AWSSDK.Translate.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\AWSSDK.Core.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\AWSSDK.Core.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\AWSSDK.Translate.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\bin\Debug\AWSSDK.Translate.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\obj\Debug\TranslateLab.csproj.CopyComplete
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\obj\Debug\TranslateLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\obj\Debug\TranslateLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\TranslateLab\obj\Debug\TranslateLab.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\ComprehendLab.exe.config
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\ComprehendLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\ComprehendLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\AWSSDK.Comprehend.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\AWSSDK.Core.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\AWSSDK.Comprehend.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\AWSSDK.Comprehend.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\AWSSDK.Core.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\bin\Debug\AWSSDK.Core.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\obj\Debug\ComprehendLab.csproj.CopyComplete
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\obj\Debug\ComprehendLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\obj\Debug\ComprehendLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\ComprehendLab\obj\Debug\ComprehendLab.csprojAssemblyReference.cache

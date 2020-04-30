@@ -1,0 +1,15 @@
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\PollyLab.exe.config
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\PollyLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\PollyLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\AWSSDK.Core.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\AWSSDK.Polly.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\NAudio.dll
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\AWSSDK.Core.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\AWSSDK.Core.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\AWSSDK.Polly.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\AWSSDK.Polly.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\bin\Debug\NAudio.xml
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\obj\Debug\PollyLab.csproj.CopyComplete
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\obj\Debug\PollyLab.exe
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\obj\Debug\PollyLab.pdb
+D:\Users\naddafn\Documents\Visual Studio 2019\Win305Solution1\PollyLab\obj\Debug\PollyLab.csprojAssemblyReference.cache
